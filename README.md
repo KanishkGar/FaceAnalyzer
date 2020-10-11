@@ -1,4 +1,6 @@
 # FaceAnalyzer
+Made by Kanishk Garg, and Madhu Sharma (https://github.com/Madhu2244)
+
 Used the jsfiddle from affectiva's demo and modified it. 
 
 
